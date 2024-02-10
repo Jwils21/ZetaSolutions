@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Data;
 using ZetaSolutions.Models;
 
 namespace ZetaSolutions.Controllers
@@ -15,7 +16,9 @@ namespace ZetaSolutions.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var data = new CustomerRepository().GetAll();
+            
+            return View(data);
         }
 
         public IActionResult Privacy()

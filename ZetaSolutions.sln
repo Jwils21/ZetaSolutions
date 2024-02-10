@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZetaSolutions", "ZetaSoluti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{74448140-BC70-4958-A081-783F3A4895FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjects", "DataObjects\DataObjects.csproj", "{EDA7FDDC-95EB-4A87-9205-FC7ECAAECC70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{74448140-BC70-4958-A081-783F3A4895FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74448140-BC70-4958-A081-783F3A4895FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74448140-BC70-4958-A081-783F3A4895FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA7FDDC-95EB-4A87-9205-FC7ECAAECC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA7FDDC-95EB-4A87-9205-FC7ECAAECC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA7FDDC-95EB-4A87-9205-FC7ECAAECC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA7FDDC-95EB-4A87-9205-FC7ECAAECC70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
