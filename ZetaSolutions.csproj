@@ -11,4 +11,8 @@
     <ProjectReference Include="Data\Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.2" />
+  </ItemGroup>
+
 </Project>
