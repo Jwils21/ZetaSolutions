@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\ZetaSolutions.bundle.scp.css"
     },
     {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\LogoNoWords.jpg",
+      "PackagePath": "staticwebassets\\Images\\LogoNoWords.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\LogoText.jpg",
+      "PackagePath": "staticwebassets\\Images\\LogoText.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\ZetaBigLogo.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ZetaBigLogo.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\ZetaLogo.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ZetaLogo.jpeg"
+    },
+    {
       "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
