@@ -2399,26 +2399,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jwils\\.nuget\\packages\\": {}
+    "/Users/jonathanwilson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ZetaSolutions\\Data\\Data.csproj",
+      "projectUniqueName": "/Users/jonathanwilson/Projects/ZetaSolutions/Data/Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Projects\\ZetaSolutions\\Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\jwils\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ZetaSolutions\\Data\\obj\\",
+      "projectPath": "/Users/jonathanwilson/Projects/ZetaSolutions/Data/Data.csproj",
+      "packagesPath": "/Users/jonathanwilson/.nuget/packages/",
+      "outputPath": "/Users/jonathanwilson/Projects/ZetaSolutions/Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jwils\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/jonathanwilson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.telerik.com/v3/index.json": {}
       },
@@ -2426,8 +2424,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\ZetaSolutions\\DataObjects\\DataObjects.csproj": {
-              "projectPath": "C:\\Projects\\ZetaSolutions\\DataObjects\\DataObjects.csproj"
+            "/Users/jonathanwilson/Projects/ZetaSolutions/DataObjects/DataObjects.csproj": {
+              "projectPath": "/Users/jonathanwilson/Projects/ZetaSolutions/DataObjects/DataObjects.csproj"
             }
           }
         }
@@ -2482,12 +2480,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

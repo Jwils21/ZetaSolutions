@@ -476,30 +476,17 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-/.vs/VenderClarity/DesignTimeBuild/.dtbcache.v2
-/Data/obj
-/DataObjects/obj
-/ZetaSolutions/obj
-/Biz/obj
 /.vs/ZetaSolutions/FileContentIndex
 /.vs/ZetaSolutions/DesignTimeBuild
 /.vs/ZetaSolutions/v17
 /.vs/ProjectEvaluation
 /.vs
-/Biz/bin/Debug/net6.0
 /Data/bin/Debug/net6.0
 /DataObjects/bin/Debug/net6.0
-ZetaSolutions/bin
 Data/bin
-Biz/bin
 DataObjects/bin
-ZetaSolutions/ZetaSolutions.csproj.user
 .idea
-ZetaSolutions/Properties/launchSettings.json
-Publish
-/ZetaSolutions/wwwroot/log
-ZetaSolutions/Properties/PublishProfiles/FolderProfile.pubxml.user
-ZetaSolutionsReport/.vs
-/ZetaSolutions.sln.DotSettings
-/ZetaSolutions/Properties/PublishProfiles/FolderProfile.pubxml.user
-/bin/Debug
+/bin/Debug/
+/DataObjects/bin/
+/Data/bin/
+/bin/
