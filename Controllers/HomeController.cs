@@ -16,9 +16,9 @@ namespace ZetaSolutions.Controllers
 
         public IActionResult Index()
         {
-            var data = new CustomerRepository().GetAll();
+            //var data = new CustomerRepository().GetAll();
             
-            return View(data);
+            return View();
         }
 
         public IActionResult Privacy()

@@ -1,7 +1,4 @@
 ﻿using DataObjects;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
-using System.Dynamic;
 using DataAccess.Repositories;
 
 namespace Data;

@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\Images\\LogoText.jpg"
     },
     {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\StockPhotos\\BlkWhtOxidation.jpg",
+      "PackagePath": "staticwebassets\\Images\\StockPhotos\\BlkWhtOxidation.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\StockPhotos\\CitySunsetTube.jpg",
+      "PackagePath": "staticwebassets\\Images\\StockPhotos\\CitySunsetTube.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\StockPhotos\\WasteWaterPic.jpg",
+      "PackagePath": "staticwebassets\\Images\\StockPhotos\\WasteWaterPic.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\StockPhotos\\WasteWaterWidePic.jpg",
+      "PackagePath": "staticwebassets\\Images\\StockPhotos\\WasteWaterWidePic.jpg"
+    },
+    {
       "Id": "C:\\Projects\\ZetaSolutions\\wwwroot\\Images\\ZetaBigLogo.jpeg",
       "PackagePath": "staticwebassets\\Images\\ZetaBigLogo.jpeg"
     },

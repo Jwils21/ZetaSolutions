@@ -1,21 +1,54 @@
-﻿@model List<DataObjects.CustomerDO>
-@{
-    ViewData["Title"] = "Home Page";
-}
-
-<div class="text-center">
-    <h1 class="display-4">Welcome You!</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
-
-
-@foreach (var line in Model)
-{
-    <div>
-        <div style="display:inline-block">CustomerID: </div>
-        <div style="display:inline-block">@line.CustomerID</div>
-        <div style="width: 25px;"></div>
-        <div style="display:inline-block">Name: </div>
-        <div style="display:inline-block">@line.Name</div>
+﻿<section class="text-center px-xl-5 px-4" style="background-color: #1C2833;">
+    <div class="row">
+        <div class="col px-xl-5 px-4 py-2">
+            <div class="row py-lg-3">
+                <div class="col-sm-4 py-2">
+                    <img class="d-block mx-auto img-fluid" src="/Images/StockPhotos/WasteWaterWidePic.jpg" style="max-height: 200px;" alt="">
+                </div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center">
+                    <h4 class="text-white">Your Water, Our Mission - Purity Powered by Zeta Solutions.</h4>
+                </div>
+            </div>
+        </div>
+        
     </div>
-}
+</section>
+<section class="text-center px-xl-5 px-4">
+    <div class="row">
+        <div class="col px-xl-5 px-4 py-2">
+            <div class="row py-lg-3">
+                <div class="col-sm-4 py-2">
+                    <img class="d-block mx-auto img-fluid" src="/Images/StockPhotos/WasteWaterWidePic.jpg" style="max-height: 200px;" alt="">
+                </div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center">
+                    <h4 class="">Your Water, Our Mission - Purity Powered by Zeta Solutions.</h4>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+
+
+@* <div class=" row mb-2 text-center" style="background-color: #1C2833;"> *@
+@* *@
+@*     $1$ <img class="d-block mx-auto mb-4" src="/Images/ZetaLogo.jpeg" alt="" width="100" height="100"> #1# *@
+@*     $1$ <h1 class="display-5 fw-bold">What Makes Us The Best?</h1> #1# *@
+@*     $1$ <div class="col-lg-6 mx-auto"> #1# *@
+@*     <p class="lead mb-4">We deliver exceptional customer service and cutting-edge chemical solutions, our business *@
+@*         stands at the forefront of wastewater and water treatment. We pride ourselves on real-time chemical usage *@
+@*         monitoring and providing the highest quality products at the most competitive prices, facilitating cleaner, safer water for all.</p> *@
+@*     $1$ </div> #1# *@
+@* </div> *@
+
+@* @foreach (var line in Model) *@
+@* { *@
+@*     <div> *@
+@*         <div style="display:inline-block">CustomerID: </div> *@
+@*         <div style="display:inline-block">@line.CustomerID</div> *@
+@*         <div style="width: 25px;"></div> *@
+@*         <div style="display:inline-block">Name: </div> *@
+@*         <div style="display:inline-block">@line.Name</div> *@
+@*     </div> *@
+@* } *@
