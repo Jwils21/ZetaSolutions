@@ -20,7 +20,27 @@ namespace ZetaSolutions.Controllers
             
             return View();
         }
+        
+        public IActionResult About()
+        {
+            return View();
+        }
 
+        public IActionResult Coagulants()
+        {
+            return View();
+        }
+        
+        public IActionResult DistributionSystem()
+        {
+            return View();
+        }
+        
+        public IActionResult Polymers()
+        {
+            return View();
+        }
+        
         public IActionResult Privacy()
         {
             return View();
